@@ -1,0 +1,5 @@
+Friend_Request_Received ali123 sana22 2024-12-01_09:40:00 Ali_Hassan_sent_you_a_friend_request.
+Message_Received sana22 ali123 2024-12-01_09:51:30 Sana_Khan_replied_to_your_message.
+Message_Received usman77 zoya56 2024-11-30_20:15:00 Usman_Ali_sent_you_a_message.
+Message_Received zoya56 usman77 2024-11-30_20:20:45 Zoya_Ahmed_replied_to_your_message.
+Friend_Request_Received ahmed01 hina89 2024-12-01_07:40:00 Ahmed_Raza_sent_you_a_friend_request.

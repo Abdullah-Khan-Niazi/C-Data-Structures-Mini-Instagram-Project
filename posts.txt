@@ -1,0 +1,6 @@
+ali123 Exploring_the_beauty_of_Islamabad. 2024-11-30_15:30:45 0 https://example.com/islamabad.jpg 45 Photo
+sana22 Had_an_amazing_weekend! 2024-11-29_18:22:10 1 https://example.com/weekend.jpg 67 Photo
+usman77 Excited_for_the_PSL_final_tonight! 2024-12-01_12:00:00 2 https://example.com/status.jpg 10 Status
+zoya56 Celebrating_my_birthday! 2024-11-28_20:00:00 3 https://example.com/birthday.jpg 120 Photo
+ahmed01 Lahore_never_fails_to_amaze_me. 2024-11-27_09:15:30 4 https://example.com/lahore.jpg 33 Photo
+hina89 Coffee_and_books_=_perfect_combo! 2024-12-01_09:45:00 5 https://example.com/coffee.jpg 50 Photo
